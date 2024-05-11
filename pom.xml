@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.custom</groupId>
 	<artifactId>custom-core</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>custom-core</name>
 	<description>Custom core to publish as maven package and make this available as dependency</description>
 	<properties>
