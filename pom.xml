@@ -38,4 +38,11 @@
 		</plugins>
 	</build>
 
+	<distributionManagement>
+		<repository>
+			<id>github</id>
+			<name>Custom core package for common codes across microservice</name>
+			<url>https://maven.pkg.github.com/Rohit-505/custom-core</url>
+		</repository>
+	</distributionManagement>
 </project>
